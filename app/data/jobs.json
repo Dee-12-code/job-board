@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Frontend Developer",
+    "company": "TechCorp Inc.",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salary": "$120,000 - $160,000",
+    "description": "We're looking for a senior frontend developer to join our team and help build amazing user experiences.",
+    "requirements": [
+      "5+ years of React experience",
+      "Strong TypeScript skills",
+      "Experience with Next.js",
+      "Knowledge of modern CSS frameworks"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401k matching",
+      "Flexible working hours",
+      "Remote work options"
+    ],
+    "postedDate": "2024-06-20",
+    "remote": true
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer",
+    "company": "DataFlow Solutions",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salary": "$100,000 - $140,000",
+    "description": "Join our backend team to build scalable APIs and microservices.",
+    "requirements": [
+      "3+ years of Node.js experience",
+      "Experience with databases",
+      "Knowledge of AWS services",
+      "Understanding of microservices architecture"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Stock options",
+      "Learning budget",
+      "Gym membership"
+    ],
+    "postedDate": "2024-06-18",
+    "remote": false
+  },
+  {
+    "id": 3,
+    "title": "UX Designer",
+    "company": "Creative Studio",
+    "location": "Austin, TX",
+    "type": "Contract",
+    "salary": "$70 - $90 per hour",
+    "description": "We need a talented UX designer to help us create intuitive user experiences.",
+    "requirements": [
+      "3+ years of UX design experience",
+      "Proficiency in Figma",
+      "Strong portfolio",
+      "User research experience"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Creative freedom",
+      "Collaboration with top designers"
+    ],
+    "postedDate": "2024-06-15",
+    "remote": true
+  },
+  {
+    "id": 4,
+    "title": "DevOps Engineer",
+    "company": "CloudFirst",
+    "location": "Seattle, WA",
+    "type": "Part-time",
+    "salary": "$80,000 - $100,000",
+    "description": "Help us maintain and scale our cloud infrastructure.",
+    "requirements": [
+      "Experience with Docker and Kubernetes",
+      "AWS/GCP knowledge",
+      "CI/CD pipeline experience",
+      "Monitoring and logging tools"
+    ],
+    "benefits": [
+      "Flexible hours",
+      "Remote work",
+      "Learning opportunities",
+      "Health benefits"
+    ],
+    "postedDate": "2024-06-22",
+    "remote": true
+  },
+  {
+    "id": 5,
+    "title": "Product Manager",
+    "company": "InnovateTech",
+    "location": "Boston, MA",
+    "type": "Full-time",
+    "salary": "$110,000 - $150,000",
+    "description": "Lead product strategy and work with cross-functional teams.",
+    "requirements": [
+      "5+ years of product management experience",
+      "Technical background preferred",
+      "Experience with agile methodologies",
+      "Strong analytical skills"
+    ],
+    "benefits": [
+      "Equity package",
+      "Health insurance",
+      "Unlimited PTO",
+      "Professional development"
+    ],
+    "postedDate": "2024-06-19",
+    "remote": false
+  }
+]
